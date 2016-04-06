@@ -1,6 +1,6 @@
 body { 
   max-width: 66ex;
-  margin: 4em;
+  margin: 4em auto;
   font: 200 1em/1.5em "Helvetica Neue", Helvetica, sans-serif;
   color: rgb(34, 34, 34);
   background-color: rgb(255, 255, 255);
