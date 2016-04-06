@@ -13,6 +13,9 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: rgb(66, 139, 202);
   text-decoration: none;
+  transition-property: color, text-decoration;
+  transition-duration: 0.25s;
+  transition-timing-function: ease-in-out;
 }
 
 a:hover {
