@@ -1,13 +1,14 @@
 body { 
-  max-width: 66ex;
+  max-width: 80ex;
   margin: 4em auto;
-  font: 200 1em/1.5em "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 1.125em;
+  line-height: 1.6;
   color: rgb(34, 34, 34);
   background-color: rgb(255, 255, 255);
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 200;
+h1, h2, h3 {
+  line-height: 1.2
 }
 
 a {
