@@ -6,6 +6,6 @@ document.onload = function () {
 
   var images = document.getElementsByClassName('image-zoom');
   for (var i = 0; i < images.length; images++) {
-      image[i].onclick = expandImage(image[i]);
+      images[i].onclick = expandImage(images[i]);
   }
 };
