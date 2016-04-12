@@ -1,5 +1,5 @@
-@import url("http://stylesheets.ryanaghdam.com/default.css");
-@import url("http://ryanaghdam.com/computer-modern-fonts/dist/serif/cmun-serif.css");
+@import url("http://ryanaghdam.github.io/default.css/default.css");
+@import url("http://ryanaghdam.github.io/computer-modern-fonts/dist/serif/cmun-serif.css");
 
 html body { font-family: 'Computer Modern Serif', Times, 'Times New Roman', serif; }
 div.figure p img { max-width: 100%; }
