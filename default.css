@@ -23,3 +23,7 @@ a:hover {
   color: rgb(42, 100, 150);
   text-decoration: underline;
 }
+
+header h1.title, header h2.author, header h3.date {
+  text-align: center;
+}
