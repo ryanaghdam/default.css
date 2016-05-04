@@ -5,7 +5,6 @@ body {
   line-height: 1.6;
   color: rgb(34, 34, 34);
   background-color: rgb(255, 255, 255);
-  font-family: "Computer Modern Serif", "Times New Roman", Times, serif;
 }
 
 h1, h2, h3 {
@@ -23,8 +22,4 @@ a {
 a:hover {
   color: rgb(42, 100, 150);
   text-decoration: underline;
-}
-
-header h1.title, header h2.author, header h3.date {
-  text-align: center;
 }
